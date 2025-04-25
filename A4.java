@@ -13,5 +13,5 @@ class A4{
         }
 }
 
-// we can use static initialization block inside constructor
+// we cannot use static initialization block inside constructor
 
